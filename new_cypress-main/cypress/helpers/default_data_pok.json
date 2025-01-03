@@ -1,0 +1,7 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+	"credit_card":"N_CARD",
+	"CVV":"CVV",
+	"name_card":"USER_CARD"
+}
